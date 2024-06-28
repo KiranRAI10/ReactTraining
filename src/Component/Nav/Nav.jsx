@@ -1,18 +1,18 @@
-import './Nav.css'
+// import './Nav.css'
 
-function Nav(){
+// function Nav(){
 
-    return (
-        <>
+//     return (
+//         <>
         
-        <nav class="navbar">
-        <ul class="nav-list">
-            <li><a href="#home">Home</a></li>
-            <li><a href="#register">Register</a></li>
-            <li><a href="#login">Login</a></li>
-        </ul>
-    </nav>
-        </>
-    )
-}
-export default nav
+//         <nav class="navbar">
+//         <ul class="nav-list">
+//             <li><a href="#home">Home</a></li>
+//             <li><a href="#register">Register</a></li>
+//             <li><a href="#login">Login</a></li>
+//         </ul>
+//     </nav>
+//         </>
+//     )
+// }
+// export default nav
